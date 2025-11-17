@@ -1,9 +1,18 @@
-# 👤 Perfil do Usuário
+## 👨‍🎓 Perfil Acadêmico e Profissional em Construção
 
-| Campo | Detalhe |
-| :--- | :--- |
-| **Nome Completo** | Caio Silveira de Alcantara |
-| **Idade** | 21 anos |
-| **Instituição** | UDF Centro Universitário |
-| **Situação Acadêmica** | Cursando o primeiro semestre |
-| **Habilidades Específicas** | Nenhuma habilidade específica no momento |
+* **Situação Atual:** Estudante universitário em fase inicial, focado no desenvolvimento de uma base sólida para a carreira em Tecnologia e Informação.
+
+---
+
+### 📚 Formação Acadêmica
+
+* **Instituição:** UDF Centro Universitário
+* **Período:** Cursando o **primeiro semestre**
+
+---
+
+### 🚀 Habilidades e Interesses
+
+* **Conhecimentos Específicos:** Em fase de aquisição e desenvolvimento (sem habilidades técnicas específicas consolidadas).
+* **Foco Principal:** Aprender os fundamentos de [Insira o nome do seu curso, ex: Sistemas de Informação, Engenharia de Software].
+* **Busca por:** Oportunidades de aprendizado, projetos introdutórios e mentoria para definir um caminho de especialização.
