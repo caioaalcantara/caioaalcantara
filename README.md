@@ -14,5 +14,5 @@
 ### 🚀 Habilidades e Interesses
 
 * **Conhecimentos Específicos:** Em fase de aquisição e desenvolvimento (sem habilidades técnicas específicas consolidadas).
-* **Foco Principal:** Aprender os fundamentos de [Insira o nome do seu curso, ex: Sistemas de Informação, Engenharia de Software].
+* **Foco Principal:** Aprender os fundamentos de Ánalise e Desenvolvimento de Sistemas].
 * **Busca por:** Oportunidades de aprendizado, projetos introdutórios e mentoria para definir um caminho de especialização.
